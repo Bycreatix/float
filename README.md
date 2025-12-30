@@ -8,7 +8,7 @@ A high-fidelity, immersive landing page for a concept fruit juice brand. This pr
 
 "float" is designed to capture the "vibe generation" audience. It moves away from standard static layouts into a fluid, scroll-driven experience. The application features a fully responsive Bento-grid layout, a parallax atmosphere system (clouds/waves), and a functional shopping cart state.
 
-**Live Demo:** [[Insert Your Vercel/Netlify Link Here]](#)
+**Live Demo:** [https://float-chi.vercel.app/](#)
 
 ## ✨ Key Features
 
