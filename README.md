@@ -75,5 +75,5 @@ To use your own bottle renders:
 const HERO_MOCKUP = "/assets/your-hero-image.jpg";
 const BOTTLE_MOCKUP = "/assets/your-bottle.jpg";    
 ```
-* Designed & Developed by Bycreatix — Graphic Designer & Web Developer 
+* Designed & Developed by Bycreatix — Graphic Designer & Web Developer.
 
